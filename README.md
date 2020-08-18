@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/emjimadhu/emjimadhu/raw/develop/assets/images/cover.jpg" alt="Cover">
+</p>
+
+<!-- ![Cover](assets/images/cover.jpg) -->
 
 <!--
 **emjimadhu/emjimadhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
